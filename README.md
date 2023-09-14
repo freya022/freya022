@@ -1,6 +1,6 @@
 <!-- [https://github.com/ryo-ma/github-profile-trophy](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center">
-  <img alt="Github Stats" width="600px" src="https://github-readme-stats.vercel.app/api?username=freya022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  <img alt="Github Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=freya022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </p>
 
 ---

@@ -4,11 +4,13 @@
 </p>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<!--
 <p align="center">
   <img alt="Github Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=freya022&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
 </p>
 
 ---
+-->
 
 <p align="center">
   <!-- https://github.com/rahul-jha98/github-stats-transparent -->

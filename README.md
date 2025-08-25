@@ -17,6 +17,3 @@
   <img src="https://raw.githubusercontent.com/freya022/github-stats-transparent/output/generated/overview.svg"/>
   <img src="https://raw.githubusercontent.com/freya022/github-stats-transparent/output/generated/languages.svg"/>
 </p>
-
-<!-- https://github.com/ryo-ma/github-profile-trophy -->
-![Github trophies](https://github-profile-trophy.vercel.app/?username=freya022&theme=radical&margin-w=5&margin-h=5&no-bg=true&column=-1)

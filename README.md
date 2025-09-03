@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <span>How long I spent on my projects since December 2023:</span>
+  <span>Time spent on my projects since December 2023</span>
   <img src="https://wakatime.com/badge/user/1a9e844a-2d53-4714-af35-6e932a8bff92.svg"/>
 </p>
 
